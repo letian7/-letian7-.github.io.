@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Influence of TikTok on society</title>
+    
+</head>
+<body>
+    <!-- Navigation Menu -->
+   <header>
+        <h1>The Influence of TikTok on society</h1>
+  <nav>
+        <ul>
+            <li><a href="#introduction">Short introduction</a></li>
+            <li><a href="#week1">Week1 task</a></li>
+            <li><a href="#week2">Week2 task</a></li>
+            <li><a href="#week3">Week3 task</a></li>
+            <li><a href="#reference">Reference List</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Introduction Section -->
+        <section id="introduction">
+            <h1>The Influence of TikTok on soceity</h1>
+            <p>This is project of Mad(a), my project is about the impact of tiktok on society. It mainly discuss the effect of tiktok on different aspect of our daily life</p>
+            <h2></h2>
+            <p>The Influence of TikTok on Society" is a compelling topic that examines the profound impact of the popular short-form video platform on modern culture, behavior, and digital media landscape. TikTok, known for its user-generated content and viral challenges, has become a global phenomenon, redefining the way individuals interact with digital media and each other.
+
+                TikTok's influence on society can be seen through various lenses, including its role in shaping entertainment, fostering creativity, and influencing trends. It has provided a platform for people from diverse backgrounds to express themselves, tell stories, and engage in social and cultural discourse in a unique and dynamic way.
+                
+                This influence extends to areas such as music promotion, influencer marketing, and the rapid spread of trends. TikTok has also raised important questions about data privacy, copyright issues, and the ethical use of digital media.</p>
+            <img src="tiktok.jpg" alt="tiktok app" style="width: 50%; height: auto;">
+            <p>This is an image of tiktok app.</p>    
+     </section>
+
+        <!-- Week1 Task Section -->
+        <section id="week1">
+            <h2>Week1 Task</h2>
+            <h3>task1</h3>
+            <p>I choose to make a website about tiktok. It is closely relate to our major. Also, tiktok is a very popularity app in our daily life, it makes lots of effect on our daily life.I believe people can understand more knowledge about tiktok from this website, and it is really helpful.There are many interesting topics about tiktok(see the picture on the right hand side)
+           
+            </p>
+            <img src="week1 topic.png" alt="week1 topic" style="width: 50%; height: auto; float: right;
+            margin: 10px;">
+            <h3>task2 How tiktok influence our society</h3>
+            <p>The figure on the below shows how many different results about the impact of tiktok on society from Google. The power of TikTok can’t be underestimated— it can make or break someone else’s career. It can influence people’s perceptions on others. It can also lead to the spread of various trends… Whether it be food blogs, dance trends or transition videos, TikTok offers some form of entertainment for people universally. In fact, over it has over 1 billion active users monthly— could we even go as far to say TikTok is becoming the most influential app ever created?</p>
+            <img src="week1.png" alt="week1" style="width: 30%; height: auto; float: left;
+            margin: 10px;">
+            <!-- Add your content and reflections for this section here -->
+        </section>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <!-- Week2 Task Section -->
+        <section id="week2">
+            <h2>Week2 Task audience</h2>
+            <h3>things to consider</h3>
+            <p>Because tiktok is suitable for all ages and styles, so I assume that I have a broad audience. Well, not everyone cares about how tiktok influence society, so I want to focus on the narrow audience.
+              </p>
+              <img src="week2.png" alt="week1" style="width: 30%; height: auto; float: left; margin: 10px;"> 
+              <br>
+            <h3>Task 2Building an audience personas</h3>
+            <img src="week2 table.png" alt="week2" style="width: 30%; height: auto">
+            <h3>lab task</h3>
+            <p>I choose the website "pudding" to identify, it is the most interesting website I ever see. There are a very interesting types of interaction, and it is very useful and attractive for the audience. Well, it is not very interesting in the first impression because the main page is boring, but other aspect is designed perfect. It use a very interesting design to provide the knowledge which audience needs. And it has very depth knowledge.</p>
+            <img src="pudding website.png" alt="week2" style="width: 30%; height: auto">
+            <h3>Task 3 moodboard</h3>
+            <p>I have so many idea in my head and don't know how and should I show them in the html website,my moodboard should like the picture below </p>
+            <img src="moodboard.png" alt="Week2" style="width: 80%; height: 40%">
+            <!-- Add your content and reflections for this section here -->
+        </section>
+
+        <!-- Week3 Task Section -->
+        <section id="week3">
+            <h2>Week3 Task</h2>
+            <h2>Narrative Plan</h2>
+    <ol>
+        <li>Key Narrative Points:
+            <ul>
+                <li>Exploring TikTok's cultural influence and trends.</li>
+                <li>Highlighting its role in shaping popular culture.</li>
+                <li>Discussing impacts on entertainment, education, marketing, and social movements.</li>
+                <li>Examining both positive and negative effects.</li>
+            </ul>
+        </li>
+        <li>Objectives:
+            <p>The objective is to educate the audience about the multifaceted impact of TikTok on society. The website aims to help visitors gain a comprehensive understanding of how TikTok has shaped modern culture.</p>
+        </li>
+        <li>Understanding Your Audience:
+            <p>The target audience includes digital natives, marketers, educators, policymakers, and individuals interested in the digital landscape. The narrative voice should be informative, combining formal and informal elements to cater to a broad audience.</p>
+        </li>
+        <li>Conceptual Structure:
+            <p>A thematic structure will be employed, with sections dedicated to culture, entertainment, education, marketing, and social impact. Each section will explore the topic from various angles, providing a holistic view of TikTok's influence.</p>
+        </li>
+        <li>Multimedia Integration:
+            <p>Multimedia elements, such as videos showcasing TikTok trends, infographics explaining statistics, and testimonials from users, can enhance the narrative.</p>
+        </li>
+        <li>Reflect on Learning Objectives:
+            <p>The narrative should impart knowledge about TikTok's impact, ranging from trends to its role in socio-political movements.</p>
+        </li>
+        <li>Create a Framework:
+            <p>Outline the main sections of the website, such as "Cultural Influence," "Entertainment," "Education," "Marketing," and "Social Movements." Subtopics within each section will delve deeper into specific aspects.</p>
+        </li>
+        <li>Be Creative:
+            <p>Use storytelling and real-life examples to make the content engaging and relatable to the audience.</p>
+        </li>
+        <li>Citation and References:
+            <p>Incorporate academic and journalistic sources to support claims and provide a well-rounded perspective on the topic.</p>
+        </li>
+            <!-- Add your content and reflections for this section here -->
+        </section>
+    </main>
+
+    <!-- Reference List Section -->
+    <section id="reference">
+        <h2>Reference List</h2>
+        <p>How has TikTok influenced our society from 2019-2023? Colchester Evening Gazette
+            28 March 2023 https://uk.news.yahoo.com/tiktok-influenced-society-2019-2023-225844138.html
+         <br>   https://pudding.cool/2023/09/invisible-epidemic/
+         <br>
+         How Tiktok Influence Society? MARCH 3, 2023HTTPS://OFFICIALSOCIALSTAR.COM/BLOGS/INFLUENCER/HOW-TIKTOK-INFLUENCE-SOCIETY
+            </p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 Kangtong Liang</p>
+    </footer>
+</body>
+</html>
